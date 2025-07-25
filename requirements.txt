@@ -1,2 +1,2 @@
-plotly
-kaleido
+plotly== 6.2.0
+kaleido== 1.0.0
